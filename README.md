@@ -63,6 +63,6 @@ The dataset consists of total 12 columns, the major 6 features are Month, Year, 
 
 ### Milestone 5:
 1. Documentation and cleanup of files.
-2. Make Conclusions document for the entire project (use format of your choice).
+2. Make Conclusions document for the entire project.
 3. Conversion to repo.
 4. Video summary of project. (Link: https://youtu.be/2SdIjJ6dkpY)
